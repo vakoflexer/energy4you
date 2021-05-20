@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EnergyApp</string>
+    <string name="categorieën">categorieën</string>
+    <string name="gps">Haal gps locatie op</string>
+    <string name="location">Huidige gps locatie</string>
+    <string name="resultaat_spinner">Categorie</string>
+    <string-array name="categorieën">
+        <item>Grondkabels</item>
+        <item>Hoogspanningsmasten</item>
+        <item>Luchtkabels</item>
+        <item>Schakelkasten</item>
+    </string-array>
+</resources>
